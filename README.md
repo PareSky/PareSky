@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @PareSky
-- 👀 I’m interested in 小程序
-- 🌱 I’m currently learning 小程序、Taro
-- 💞️ I’m looking to collaborate on 小程序
 - 📫 How to reach me ...
 
 <!---
